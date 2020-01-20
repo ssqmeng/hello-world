@@ -1,7 +1,8 @@
 public Test{
   public void static main(String args[])
   {
-    System.out.println("Hello World!");
+  	//Ôö¼Ó×¢ÊÍ
+    	System.out.println("Hello World!");
   }
 
 }
