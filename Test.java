@@ -1,7 +1,7 @@
 public Test{
   public void static main(String args[])
   {
-  	//Ôö¼Ó×¢ÊÍ
+  	//å¢åŠ æ³¨é‡Š2
     	System.out.println("Hello World!");
   }
 
